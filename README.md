@@ -1,5 +1,5 @@
 **The Challenge**
-  To analyse stock data for the years 2018, 2019 and 2020. 
+To analyse stock data for the years 2018, 2019 and 2020. 
   Given excel file provided is a stock ticker report and contained the below data -
     1.	Ticker
     2.	Opening Price
